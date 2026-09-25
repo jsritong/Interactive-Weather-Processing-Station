@@ -1,4 +1,4 @@
-# AWIPS
+# Weather Processing Station
 
 This application is heavily based off of NOAA'S AWIPS CAVE application; copyright Unidata (all rights reserved). This program is for experimental purposes only and will not function in a real environment.
 
