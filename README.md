@@ -8,18 +8,18 @@ The application allows polygons to be drawn on a static map, which generates lat
 
 The application contains the following features: WarnGen, NWRWaves, BMH Menu, Local Storm Report, Text Workstation and Text Editor, Transmitter Group Alignment.
 
-WarnGen - generates alert products based off of polygon on map; localized to NWS office assignment.
+**WarnGen** - generates alert products based off of polygon on map; localized to NWS office assignment.
 
-NWRWaves - view of all active products in the database, in respect to the NWS office issuing the alert.
+**NWRWaves** - view of all active products in the database, in respect to the NWS office issuing the alert.
 
-BMH Menu - allows monitoring and control of the virtual NOAA weather radios operational in relation to the server and the NWS office.
+**BMH Menu** - allows monitoring and control of the virtual NOAA weather radios operational in relation to the server and the NWS office.
 
-Local Storm Report - allows for easy generation of storm report data for a specific location, as well as magnitude and intensity information.
+**Local Storm Report** - allows for easy generation of storm report data for a specific location, as well as magnitude and intensity information.
 
-Text Workstation/Text Editor - allows for editing of text products before sending out.
+**Text Workstation/Text Editor** - allows for editing of text products before sending out.
 
-Transmitter Group Alignment - allows manual callibration of transmitter attributes.
+**Transmitter Group Alignment** - allows manual callibration of transmitter attributes.
 
-This is a work in progress; however, updates are not planned for the near future.
+**This is a work in progress; however, updates are not planned for the near future.**
 
 Thank you for reading!
