@@ -1,6 +1,6 @@
 # AWIPS
 
-This application is heavily based off of NOAA'S AWIPS application; all rights reserved. This program is for experimental purposes only and will not function in a real environment.
+This application is heavily based off of NOAA'S AWIPS application (all rights reserved). This program is for experimental purposes only and will not function in a real environment.
 
 The C# portion of the program communicates with a Python-based local server to store data involving weather products sent from the application, as well as providing access to such data and managing it in relation to its geographic location and pertinent information.
 
