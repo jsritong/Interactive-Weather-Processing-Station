@@ -19,3 +19,7 @@ Local Storm Report - allows for easy generation of storm report data for a speci
 Text Workstation/Text Editor - allows for editing of text products before sending out.
 
 Transmitter Group Alignment - allows manual callibration of transmitter attributes.
+
+This is a work in progress; however, updates are not planned for the near future.
+
+Thank you for reading!
